@@ -25,7 +25,7 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 ## I am passionate about
 
 - Computer Programming 🤖
-- Blockchain : 🔗
+- Blockchain 🔗
 - Flutter 💻
 - Open source :octocat:
 - Web Development 👩🏾‍💻
