@@ -1,4 +1,4 @@
-# Hola! I’m <a href="https://alphadead.github.io/portfolio/">@alphadead</a> 👋
+# Hola! I’m <a href="https://alphadead.github.io/portfolio/">Adarsh</a> 👋
 
 <!---## About Me--->
 
