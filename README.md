@@ -65,8 +65,7 @@ alphadead/alphadead is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://alphadead.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username=alphadead&show_icons=true&theme=chartreuse-dark" alt="alphadead"/>       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphadead&theme=chartreuse-dark&layout=compact" alt="alphadead" /></a>
+<a href="https://alphadead.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username=alphadead&show_icons=true&theme=chartreuse-dark" alt="alphadead"/>    
 ---
 
 ### 🔥 &nbsp; My Stats :
