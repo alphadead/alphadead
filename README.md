@@ -2,11 +2,14 @@
 
 <!---## About Me--->
 
-## I am passionate about
+### :woman_technologist: &nbsp;About Me :
 
-- Flutter :robot:
-- Open source :octocat:
-- Web Development 👩🏾‍💻
+I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building applications.
+- 🌱 Exploring Business and Entrepreneur world.
+- ⚡ In my free time, I try to solve real life problems and read self help books.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshgupta16/)
 
 **Languages and Tools:**  
 
@@ -26,16 +29,15 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building applications.
-- 🌱 Exploring Business and Entrepreneur world.
-- ⚡ In my free time, I try to solve real life problems and read self help books.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshgupta16/)
 
 ---
+
+## I am passionate about
+
+- Flutter :robot:
+- Open source :octocat:
+- Web Development 👩🏾‍💻
 
 ### 🛠 &nbsp;Languages and Tools :
 
