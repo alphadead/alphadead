@@ -45,7 +45,6 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
----
 ## <p align="center">Visitor count </p> 
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/alphadead/count.svg" />
