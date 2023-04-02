@@ -1,3 +1,14 @@
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/adarshgupta16/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/alphadead" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+
 # Hola! I’m <a href="https://alphadead.github.io/portfolio/">Adarsh</a> 👋
 
 <!---## About Me--->
@@ -11,25 +22,13 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 - ⚡ In my free time, I try to solve real life problems and read self help books.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshgupta16/)   
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/adarshgupta16/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/alphadead" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-
-
----
-
 ## I am passionate about
 
 - Flutter :robot:
 - Open source :octocat:
 - Web Development 👩🏾‍💻
+
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
