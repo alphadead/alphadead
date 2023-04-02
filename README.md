@@ -27,6 +27,7 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 - Flutter :robot:
 - Open source :octocat:
 - Web Development 👩🏾‍💻
+- Business and Entrepreneurship 🕴️
 
 ---
 
