@@ -30,10 +30,10 @@
 
 I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshgupta16/)
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building applications.
+- 🌱 Exploring Business and Entrepreneur world.
+- ⚡ In my free time, I try to solve real life problems and read self help books.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshgupta16/)
 
 ---
 
