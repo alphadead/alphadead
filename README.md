@@ -46,7 +46,7 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 </p>
 
 ## <p align="center">Visitor count </p>  
-  <p align="center">Visitor count<img src="https://profile-counter.glitch.me/alphadead/count.svg" /></p>
+## <p align="center"><img src="https://profile-counter.glitch.me/alphadead/count.svg" /></p>
 
 
 ---
