@@ -9,15 +9,7 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building applications.
 - 🌱 Exploring Business and Entrepreneur world.
 - ⚡ In my free time, I try to solve real life problems and read self help books.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshgupta16/)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>    
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshgupta16/)   
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
