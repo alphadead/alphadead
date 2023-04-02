@@ -49,8 +49,6 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 ## <p align="center"><img src="https://profile-counter.glitch.me/alphadead/count.svg" /></p>
 
 
----
-
 ### 🔥 &nbsp; My Stats :
 
 <a href="https://alphadead.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username=alphadead&show_icons=true&theme=chartreuse-dark" alt="alphadead"/>    
