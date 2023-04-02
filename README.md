@@ -56,11 +56,12 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 alphadead/alphadead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<a href="https://alphadead.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username=alphadead&show_icons=true&theme=chartreuse-dark" alt="alphadead"/>    
 ---
 
 ### 🔥 &nbsp; My Stats :
+
+<a href="https://alphadead.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username=alphadead&show_icons=true&theme=chartreuse-dark" alt="alphadead"/>    
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alphadead&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphadead&layout=compact&theme=vision-friendly-dark)](https://github.com/alphadead/github-readme-stats)
