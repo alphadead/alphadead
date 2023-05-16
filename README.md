@@ -9,7 +9,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
-# Hola! I’m <a href="https://alphadead.github.io/portfolio/">Adarsh</a> 👋
+# Hola! I’m <a href="https://alphadead-portfolio.web.app/home">Adarsh</a> 👋
 
 <!---## About Me--->
 
@@ -54,7 +54,7 @@ I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlp
 
 ### 🔥 &nbsp; My Stats :
 
-<a href="https://alphadead.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username=alphadead&show_icons=true&theme=chartreuse-dark" alt="alphadead"/>    
+<a href="https://alphadead-portfolio.web.app/home"><img src="https://github-readme-stats.vercel.app/api?username=alphadead&show_icons=true&theme=chartreuse-dark" alt="alphadead"/>    
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alphadead&theme=dark&background=000000)](https://git.io/streak-stats)
 
